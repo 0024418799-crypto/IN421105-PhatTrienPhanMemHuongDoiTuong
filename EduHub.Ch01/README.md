@@ -22,7 +22,8 @@ dotnet run
 
 ## Kết quả chạy
 
-![Kết quả chạy](docs/result-1.png and docs/result-2.png)
+![Kết quả chạy](docs/result-1.png)
+![Kết quả chạy](docs/result-2.png)
 
 ## Tài liệu
 
